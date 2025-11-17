@@ -1,3 +1,5 @@
 ## Hi there
-- i'm a backend/infra focused programmer, i find computers and people extremely fascinating, would love to colab and meet new people anytime.
-- you can ping me through my email: [hey@greatm3.tech](mailto:hey@greatm3.tech)🙂
+### Systems Builder | Deepening the Backend Stack. 
+- Currently mastering performance and scalability in the Node.js ecosystem (Event Loop, WebSockets, Caching).
+- My learning trajectory is calculated: Node $\rightarrow$ C (Systems) $\rightarrow$ Go/Rust (Infra).
+- Driven by fundamental mastery. Let's connect: hey@greatm3.tech
